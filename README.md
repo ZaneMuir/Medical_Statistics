@@ -17,5 +17,5 @@
 ---
 
 ## Exam Archives
-- part 1
-- part 2
+- [part 1](https://nbviewer.jupyter.org/github/ZaneMuir/Medical_Statistics/exam/part1.ipynb)
+- [part 2](https://nbviewer.jupyter.org/github/ZaneMuir/Medical_Statistics/exam/part2.ipynb)
