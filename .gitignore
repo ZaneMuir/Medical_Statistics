@@ -3,3 +3,5 @@ archive/
 .ipynb_checkpoints/
 *.pages
 keynote/
+docs/build/
+docs/site/
