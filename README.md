@@ -2,14 +2,15 @@
 
 ## Notes on Textbook and Lectures
 ### I
-- [基本概念](docs/1%20Intro.html)
-- [研究设计](docs/design.html)
-- [统计描述](docs/2%20Descriptions.html)
-- [概率分布](docs/3%20Distributions.html)
-- [抽样误差](docs/4%20Sampling.html)
-- [参数估计](docs/5%20Inference.html)
-- [假设检验](docs/6%20Hypothesis%20Test.html)
-- [双样本定量资料](docs/7%20Two-sample%20Quantitative%20Data.html)
+- [基本概念](https://nbviewer.jupyter.org/github/ZaneMuir/Medical_Statistics/blob/master/notes/1%20Intro.ipynb)
+- [研究设计](https://nbviewer.jupyter.org/github/ZaneMuir/Medical_Statistics/blob/master/notes/design.ipynb)
+- [统计描述](https://nbviewer.jupyter.org/github/ZaneMuir/Medical_Statistics/blob/master/notes/2%20Descriptions.ipynb)
+- [概率分布](https://nbviewer.jupyter.org/github/ZaneMuir/Medical_Statistics/blob/master/notes/3%20Distributions.ipynb)
+- [抽样误差](https://nbviewer.jupyter.org/github/ZaneMuir/Medical_Statistics/blob/master/notes/4%20Sampling.ipynb)
+- [参数估计](https://nbviewer.jupyter.org/github/ZaneMuir/Medical_Statistics/blob/master/notes/5%20Inference.ipynb)
+- [假设检验](https://nbviewer.jupyter.org/github/ZaneMuir/Medical_Statistics/blob/master/notes/6%20Hypothesis%20Test.ipynb)
+- [双样本定量资料](https://nbviewer.jupyter.org/github/ZaneMuir/Medical_Statistics/blob/master/notes/7%20Two-sample%20Quantitative%20Data.ipynb)
+- [双样本定性资料](https://nbviewer.jupyter.org/github/ZaneMuir/Medical_Statistics/blob/master/notes/8%20Two-sample%20Qualitative%20Data.ipynb)
 
 ### II
 - n/a
