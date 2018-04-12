@@ -18,7 +18,7 @@
 
 ## attachments
 - [课后习题答案](attachments/keys.pdf)
-- [选择题练习](https://nbviewer.jupyter.org/github/ZaneMuir/Medical_Statistics/blob/master/attachments/exercise.ipynb)
+- [选择题练习](exam/150.html)
 
 ---
 
