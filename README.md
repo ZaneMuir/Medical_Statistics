@@ -2,6 +2,7 @@
 
 ## Notes on Textbook and Lectures
 ### I
+- [主要知识点列表](https://nbviewer.jupyter.org/github/ZaneMuir/Medical_Statistics/blob/master/notes/Symmary.ipynb)
 - [基本概念](https://nbviewer.jupyter.org/github/ZaneMuir/Medical_Statistics/blob/master/notes/1%20Intro.ipynb)
 - [研究设计](https://nbviewer.jupyter.org/github/ZaneMuir/Medical_Statistics/blob/master/notes/design.ipynb)
 - [统计描述](https://nbviewer.jupyter.org/github/ZaneMuir/Medical_Statistics/blob/master/notes/2%20Descriptions.ipynb)
