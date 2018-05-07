@@ -1,8 +1,5 @@
 language: julia
 
-sudo: required
-
 after_success:
     - julia -e 'Pkg.add("Documenter")'
-    - sudo pip install mkdocs-material
     - julia -e 'cd(pwd()),include("make.jl")'

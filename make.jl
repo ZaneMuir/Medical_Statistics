@@ -13,7 +13,6 @@ using Documenter
 
 makedocs(
     # format = :html,
-    sitename = "Medical Statistics",
     pages = Any[
         "Index" => "index.md",
         "Part I" => Any[
@@ -38,7 +37,7 @@ makedocs(
     ]
     )
 deploydocs(
-    deps   = Deps.pip("mkdocs", "python-markdown-math"),
+    deps   = Deps.pip("mkdocs", "python-markdown-math","mkdocs-material"),
     repo = "github.com/ZaneMuir/Medical_Statistics.git",
     julia  = "0.6"
 )

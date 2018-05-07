@@ -1,9 +1,9 @@
-site_name:        Medical_Statistics.jl
-repo_url:         https://github.com/ZaneMuir/Medical_Statistics.jl
+site_name:        Medical_Statistics
+repo_url:         https://github.com/ZaneMuir/Medical_Statistics
 site_description: Description...
 site_author:      ZANE_MUIR
 
-theme: mkdocs
+theme: material
 
 extra_css:
   - assets/documenter.css
