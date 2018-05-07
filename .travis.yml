@@ -1,5 +1,8 @@
 language: julia
 
+sudo: required
+
 after_success:
     - julia -e 'Pkg.add("Documenter")'
-    - julia -e 'cd(Pkg.dir("Medical_Statistics")); include(joinpath("docs", "make.jl"))'
+    - sudo pip install mkdocs-material
+    - julia -e 'cd(pwd()),include("make.jl")'
