@@ -1,5 +1,7 @@
 # 医学统计学
 
+[![docs](https://img.shields.io/badge/docs-latest-blue.svg)](https://ZaneMuir.github.io/ANOVA.jl/latest)
+
 ## Notes on Textbook and Lectures
 ### I
 - [主要知识点列表](https://nbviewer.jupyter.org/github/ZaneMuir/Medical_Statistics/blob/master/notes/Summary.ipynb)
